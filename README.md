@@ -1,1 +1,1 @@
-https://github.com/Kevinsss/weibo_spider
+https://github.com/Kevinsss/csdn-spider
