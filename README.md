@@ -1,2 +1,1 @@
-# Python-csdn-spider
-Python-csdn-spider
+https://github.com/Kevinsss/weibo_spider
