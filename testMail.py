@@ -8,9 +8,9 @@ print("=====================SMTP发邮件和POP3收邮件=====================")
 
 SMTPSVR = 'smtp.163.com'  #smtp服务器地址
 POP3SVR = 'pop.163.com'  #pop3服务器地址
-SENDER="18500950209@163.com"                           #用户名，换成自己的
+SENDER="aaaaaaa@163.com"                           #用户名，换成自己的
 PASSWORD=""                             #授权码，需自己去设置开启smtp和pop3服务
-RECIPS=["18500950209@163.com"]      #这里接收人也设置为自己
+RECIPS=["aaaaaaaa@163.com"]      #这里接收人也设置为自己
 origmsg = '''\
 From: %(who)s
 To: %(who)s
